@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/PPPiP8r' title='Android Wordle Demo' width='' alt='Wordle Video Demo' />
+<img src='https://imgur.com/gallery/PPPiP8r' title='Android Wordle Demo' width='' alt='Wordle Video Demo' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
